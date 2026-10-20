@@ -1,5 +1,5 @@
 # PI-Att: Topology Attention for Segmentation Networks through Adaptive Persistence Image Representation
-The implementation of the "[PI-Att:PersistenceImageLoss ](https://arxiv.org/abs/2408.08038)".
+The implementation of the "[PI-Att: Persistence Image Loss](https://arxiv.org/abs/2408.08038)".
 
 
 ## Citation
